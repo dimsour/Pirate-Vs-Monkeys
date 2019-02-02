@@ -1,0 +1,19 @@
+
+Hey there!!
+
+This is My 3rd pack and it's composed by five 8-bit music loops that was inspired by classic 8 bit games.
+There is a Factory Stage song, a Mine Stage song, a Sky Stage song, a Dungeon Stage song and a Last Stage song.
+You can just rename it for your use... I gave those names because... they sound like the respective theme to me :p
+
+They are all loopable.
+The Dungeon Stage, I broke in the intro and the Melody, so you can just loop them together inside your game.
+
+I hope you enjoy it!
+
+Please, give feedback on those and if you have requests, just contact me at m_nosoline@yahoo.com.br
+
+:)
+Regards,
+--------------
+Available at Unity Asset Store
+
